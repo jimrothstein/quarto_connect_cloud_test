@@ -8,7 +8,7 @@ za
 zo
 
 ```{r}
-rsconnect::writeManifest()
+#rsconnect::writeManifest()
 ```
 # My Notes
 
